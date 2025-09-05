@@ -1,7 +1,7 @@
 // export const BASE_URL = import.meta.env.VITE_API_URL;
 export const BASE_URL =
   process.env.NODE_ENV === "production"
-    ? "https://myapp-backend.onrender.com" // your Render backend URL
+    ? "https://myapp-backend-j6r5.onrender.com/" // your Render backend URL
     : "http://localhost:8000";
 
 // utils/apiPaths.js
