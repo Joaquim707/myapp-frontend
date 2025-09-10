@@ -44,7 +44,8 @@
 // }
 
 
-export const BASE_URL = "https://myapp-backend-1-zqvd.onrender.com/";
+// export const BASE_URL = "https://myapp-backend-1-zqvd.onrender.com/";
+export const BASE_URL = "https://myapp-backend-production.up.railway.app/";
 
 // utils/apiPaths.js
 export const API_PATHS = {
