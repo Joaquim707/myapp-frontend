@@ -35,7 +35,7 @@ const CustomBarChart = ({ data }) => {
           </p>
           <p className="text-sm text-gray-600">
             Count:{" "}
-            <span className="text-sm text-gray-600">{payload[0].count}</span>
+            <span className="text-sm text-gray-600">{payload[0].payload.count}</span>
           </p>
         </div>
       );
