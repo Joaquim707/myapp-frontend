@@ -52,7 +52,7 @@ Built with **MongoDB, Express, React, and Node.js**.
 
 <h2>🌐 Live Demo</h2>
 
-👉 [Click here to view live app]([https://your-frontend-link.vercel.app](https://myapp-frontend-eight.vercel.app/))
+👉 [Click here to view live app](https://myapp-frontend-eight.vercel.app/)
 
 Backend API: [https://your-backend-link.onrender.com](https://myapp-backend-5ldw.onrender.com/)
 
